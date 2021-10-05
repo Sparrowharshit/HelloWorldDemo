@@ -18,7 +18,11 @@ namespace HelloWorld
         {
             Console.WriteLine("Addition operation");
             Console.WriteLine("Modifying in remote master");
+
             Console.WriteLine("Creating Conflict At Local");
+
+            Console.WriteLine("Creating Conflict At Line Number 21");
+
         }
     }
 }
