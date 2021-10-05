@@ -18,6 +18,9 @@ namespace HelloWorld
         {
             Console.WriteLine("Addition operation");
             Console.Writeline("Merging Changes with master to pull request");
+            Console.WriteLine("Modifying in remote master");
+            Console.WriteLine("Creating Conflict At Local"
+            Console.WriteLine("Creating Conflict At Line Number 21");
         }
     }
 }
