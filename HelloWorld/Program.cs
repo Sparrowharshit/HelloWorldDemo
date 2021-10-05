@@ -17,6 +17,7 @@ namespace HelloWorld
         public static void Addition()
         {
             Console.WriteLine("Addition operation");
+            Console.Writeline("Merging Changes with master to pull request");
         }
     }
 }
